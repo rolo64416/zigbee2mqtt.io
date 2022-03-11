@@ -23,7 +23,8 @@ pageClass: device-page
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
-
+Pairing
+Press button on the back for 5 seconds, the blue led starts to blink, device is now in pairing mode.
 
 <!-- Notes END: Do not edit below this line -->
 
